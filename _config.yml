@@ -1,0 +1,28 @@
+name: PECANS
+favicon: null
+layout_spectrum: 0.2414649184793234
+typography_spectrum: 0.4816319993697107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8268033356871456
+  lightness: 0.2911579543724656
+  saturation: 0.7152385641820729
+  rhythmicContrast: 0.5908071408048272
+purpose: []
