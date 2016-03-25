@@ -1,4 +1,4 @@
-name: PECANS
+name: 'Pecans - Ponca City, OK. 74601 in Kay County'
 favicon: null
 layout_spectrum: 0.2414649184793234
 typography_spectrum: 0.4816319993697107
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#80361e'
+    - '#1a1512'
+    - '#fbfaff'
+    - '#b88069'
+    - '#0f5683'
   brandStrength: 0.8268033356871456
   lightness: 0.2911579543724656
   saturation: 0.7152385641820729
