@@ -1,6 +1,6 @@
 name: 'Pecans - Ponca City, OK. 74601 in Kay County'
 favicon: null
-layout_spectrum: 0.49692
+layout_spectrum: 0.88243
 typography_spectrum: 0.80112
 title: Merry Pecans
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c3af87'
     - '#7f2d0c'
     - '#bc773f'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
