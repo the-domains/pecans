@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Merry Pecans]]></title>
         <description><![CDATA[Merry Pecans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pecans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 02:02:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 02:03:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pecans/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[pecans 1]]></title>
             <description><![CDATA[<article><h1>pecans 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/791a42fa14f499edec8b1daa3a8dcf85c11a48fb.jpg"></article>]]></description>
-            <link>undefinedpecans-1/index.html</link>
+            <link>https://thegrid.ai/pecans/pecans-1/index.html</link>
             <guid isPermaLink="false">84ab0c25-6353-4607-b612-27c0add3c60e</guid>
             <pubDate>Sat, 26 Mar 2016 02:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b5edfd4-2ba9-47b7-8c5f-2e61054c3528.jpg">]]></description>
+            <link>https://thegrid.ai/pecans/2c7918e1-3fc7-4fa5-8dba-de88e09b8ce6/index.html</link>
+            <guid isPermaLink="false">2c7918e1-3fc7-4fa5-8dba-de88e09b8ce6</guid>
+            <pubDate>Sat, 26 Mar 2016 02:03:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
